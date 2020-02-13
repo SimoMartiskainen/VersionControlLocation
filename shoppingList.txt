@@ -4,6 +4,10 @@ apple
 orange
 blackberry
 watermelon
+<<<<<<< HEAD
 onion
 garlic
 grape
+=======
+potato
+>>>>>>> melons
