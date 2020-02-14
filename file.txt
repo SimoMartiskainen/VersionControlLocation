@@ -1,0 +1,7 @@
+git status
+
+cat file.txt
+echo >> file.txt
+end
+cygwin
+
